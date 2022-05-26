@@ -9,6 +9,10 @@ and offers a *simple* and *intuitive* API.
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
+Saccadic Fast Fourier Transform (SFFT) is an algorithm for image subtraction in Fourier space. SFFT brings about a remarkable improvement of computational performance of around an order of magnitude compared to other published image subtraction codes. 
+
+..  image:: https://github.com/thomasvrussell/sfft/blob/master/docs/sfft_subtract_speed.png
+
 .. note::
 
    This project is under active development.
